@@ -33,6 +33,6 @@
 
 ## Installation
 
-1. Download the latest release from the [releases page](https://github.com/EVilm1/EVilm1-Font/releases).
+1. Download the latest release from the [releases page](https://github.com/EVilm1/EVilm1-OSD-Font/releases).
 2. Unzip all `.bin` files to the root of your goggle's SD card.
 3. Fly!
