@@ -36,3 +36,5 @@
 1. Download the latest release from the [releases page](https://github.com/EVilm1/EVilm1-OSD-Font/releases).
 2. Unzip all `.bin` files to the root of your goggle's SD card.
 3. Fly!
+
+If you want more info and instructions on how to modify the osd I have created a complete doc here : [EVilm1/WIKI-HACK-DJI-OSD](https://github.com/EVilm1/WIKI-HACK-DJI-OSD)
