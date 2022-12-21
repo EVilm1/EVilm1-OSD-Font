@@ -37,4 +37,5 @@
 2. Unzip all `.bin` files to the root of your goggle's SD card.
 3. Fly!
 
-If you want more info and instructions on how to modify the osd I have created a complete doc here : [EVilm1/WIKI-HACK-DJI-OSD](https://github.com/EVilm1/WIKI-HACK-DJI-OSD)
+If you want more info and instructions on how to modify the osd I have created a complete doc here : [EVilm1/WIKI-HACK-DJI-OSD](https://github.com/EVilm1/WIKI-HACK-DJI-OSD)<br />
+If you liked it, you can buy me a coffee 😉 : https://www.buymeacoffee.com/evilm1
