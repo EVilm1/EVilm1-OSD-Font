@@ -25,11 +25,12 @@
     <a>Created with the </a><a href="https://www.dafont.com/fr/conthrax.font?text=EVilm1%27s+Font">Conthrax</a><a> font</a>
     <br /><br />
     <a>ℹ️ Only Betaflight is supported.</a>
-    <br />
+    <br /><br />
+    <a>A video example (DJI HUD has been added on it for the example):</a>
   </p>
 </div>
 
-
+https://user-images.githubusercontent.com/51506790/208981180-be9528f5-7118-47d3-8a71-b43425f159c6.mp4
 
 ## Installation
 
